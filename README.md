@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Desenvolvendo uma versão simplificada de um sistema de roteiro de viagem. Projeto desenvolvido com a Rocketseat, curso NLW Journey.
+Desenvolvendo uma versão simplificada de um sistema de roteiro de viagem. Projeto desenvolvido com a Rocketseat, curso NLW Journey
